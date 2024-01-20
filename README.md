@@ -5,7 +5,7 @@ AI engineering student in Master's program. Passionate about learning Computer V
 -------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Daejeon, South Korea
-* ✉️  You can contact me at [kamoldinovq@gmail.com](mailto:kamoldinovq@gmail.com)
+* ✉️  You can contact me at [https://www.linkedin.com/in/kudratbek-kamoldinov/](mailto:https://www.linkedin.com/in/kudratbek-kamoldinov/)
 * 🧠  I'm learning Deep Learning and Natural Language Processing
 * 🤝  I'm open to collaborating on Deep Learning based projects
 
