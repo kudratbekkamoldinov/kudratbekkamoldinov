@@ -74,18 +74,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kudratbekkamoldinov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kudratbekkamoldinov/kudratbekkamoldinov/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31qx64uzbgg2xzj5o7tuwdeeauja">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qx64uzbgg2xzj5o7tuwdeeauja&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
