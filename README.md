@@ -76,6 +76,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/kudratbekkamoldinov/kudratbekkamoldinov/output/snake.svg" alt="Snake animation" />
 
 ###
