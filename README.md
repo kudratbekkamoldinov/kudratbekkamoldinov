@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kudratbek and I'm a AI engineer student in Master Program. I love Tech and Coffee</h2>
+<h2 align="left">Hi 👋! My name is Kudratbek and I'm a Full Stack & AI engineer. I love Coding and Coffee</h2>
 
 ###
 
